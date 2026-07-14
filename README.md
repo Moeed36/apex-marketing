@@ -4,7 +4,7 @@ A modern, responsive marketing agency website for an HCI course project, inspire
 
 ## Live Demo
 
-🔗 [View Live Site](https://apex-marketing-YOUR.vercel.app)
+🔗 [View Live Site](https://apex-marketing-drab.vercel.app/)
 
 ## About This Project
 
