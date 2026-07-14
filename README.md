@@ -160,3 +160,8 @@ apex-marketing/
 ---
 
 **HCI Course Project** | Built with AI assistance + manual development
+
+---
+
+**Student:** Muhammad Moeed
+**Roll No:** 23018020085
